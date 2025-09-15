@@ -1,0 +1,17 @@
+export default {
+  primary: '#667eea',
+  secondary: '#764ba2',
+  white: '#FFFFFF',
+  black: '#000000',
+  gray: '#666666',
+  lightGray: '#f5f7fa',
+  borderGray: '#e0e6ed',
+  textDark: '#333333',
+  textLight: '#999999',
+  success: '#4CAF50',
+  error: '#F44336',
+  warning: '#FF9800',
+  cardBackground: '#FFFFFF',
+  gradientStart: '#667eea',
+  gradientEnd: '#764ba2',
+}
